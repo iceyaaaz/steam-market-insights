@@ -1,0 +1,18 @@
+[
+  {
+    "disposition":"included",
+    "records":135162
+  },
+  {
+    "disposition":"non_base_game_name",
+    "records":8231
+  },
+  {
+    "disposition":"missing_name",
+    "records":1
+  },
+  {
+    "disposition":"future_release",
+    "records":1
+  }
+]

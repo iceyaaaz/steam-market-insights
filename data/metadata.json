@@ -1,0 +1,26 @@
+{
+  "dataset": "FronkonGames / Steam Games Dataset",
+  "author": "Martin Bustos (FronkonGames)",
+  "source_url": "https://www.kaggle.com/datasets/fronkongames/steam-games-dataset",
+  "download_url": "https://www.kaggle.com/api/v1/datasets/download/fronkongames/steam-games-dataset?datasetVersionNumber=52",
+  "version": 52,
+  "source_updated": "2026-10-02",
+  "as_of_note": "Version update date; individual records may have different crawl times.",
+  "retrieved_utc": "2026-10-09T02:51:47.986637+00:00",
+  "archive_sha256": "86804e6e581bb70dbfc814e483a3ba37f6ec4b879902a8bb727ed20486bdcabe",
+  "license": "MIT (Kaggle dataset metadata)",
+  "format_used": "games.json",
+  "currency": "USD (source scraper default US store region)",
+  "csv_issue": "v52 CSV header combines Discount and DLC count, shifting subsequent fields. JSON used instead.",
+  "quality": {
+    "raw_records": 143395,
+    "included_games": 135162,
+    "tag_links": 1180212,
+    "distinct_tags": 452,
+    "zero_reviews": 52217,
+    "missing_reviews": 0,
+    "missing_price": 0,
+    "no_tags": 51821,
+    "discounted_games": 41863
+  }
+}

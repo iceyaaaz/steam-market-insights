@@ -1,0 +1,109 @@
+﻿sample_id,game,group,theme,polarity
+DP01,Duck Detective: The Ghost of Glamping,positive,笼统评价／信息不足,中性或不足
+DP02,Duck Detective: The Ghost of Glamping,positive,谜题与引导,赞扬
+DP03,Duck Detective: The Ghost of Glamping,positive,谜题与引导,赞扬
+DP03,Duck Detective: The Ghost of Glamping,positive,剧情与角色,赞扬
+DP03,Duck Detective: The Ghost of Glamping,positive,内容量与价格感受,赞扬
+DP04,Duck Detective: The Ghost of Glamping,positive,谜题与引导,赞扬
+DP04,Duck Detective: The Ghost of Glamping,positive,内容量与价格感受,抱怨
+DP05,Duck Detective: The Ghost of Glamping,positive,剧情与角色,赞扬
+DP05,Duck Detective: The Ghost of Glamping,positive,美术音乐与配音,赞扬
+DP05,Duck Detective: The Ghost of Glamping,positive,谜题与引导,抱怨
+DP06,Duck Detective: The Ghost of Glamping,positive,谜题与引导,赞扬
+DP06,Duck Detective: The Ghost of Glamping,positive,剧情与角色,赞扬
+DP07,Duck Detective: The Ghost of Glamping,positive,内容量与价格感受,中性或不足
+DP07,Duck Detective: The Ghost of Glamping,positive,笼统评价／信息不足,中性或不足
+DP08,Duck Detective: The Ghost of Glamping,positive,剧情与角色,赞扬
+DP09,Duck Detective: The Ghost of Glamping,positive,美术音乐与配音,赞扬
+DP09,Duck Detective: The Ghost of Glamping,positive,内容量与价格感受,中性或不足
+DP10,Duck Detective: The Ghost of Glamping,positive,笼统评价／信息不足,中性或不足
+DN01,Duck Detective: The Ghost of Glamping,negative,谜题与引导,抱怨
+DN01,Duck Detective: The Ghost of Glamping,negative,剧情与角色,抱怨
+DN01,Duck Detective: The Ghost of Glamping,negative,内容量与价格感受,抱怨
+DN01,Duck Detective: The Ghost of Glamping,negative,操作与技术,抱怨
+DN01,Duck Detective: The Ghost of Glamping,negative,美术音乐与配音,抱怨
+DN02,Duck Detective: The Ghost of Glamping,negative,内容量与价格感受,抱怨
+DN02,Duck Detective: The Ghost of Glamping,negative,剧情与角色,赞扬
+DN03,Duck Detective: The Ghost of Glamping,negative,谜题与引导,抱怨
+DN03,Duck Detective: The Ghost of Glamping,negative,内容量与价格感受,抱怨
+DN03,Duck Detective: The Ghost of Glamping,negative,剧情与角色,中性或不足
+DN04,Duck Detective: The Ghost of Glamping,negative,谜题与引导,抱怨
+DN04,Duck Detective: The Ghost of Glamping,negative,内容量与价格感受,抱怨
+DN05,Duck Detective: The Ghost of Glamping,negative,美术音乐与配音,赞扬
+DN05,Duck Detective: The Ghost of Glamping,negative,剧情与角色,抱怨
+DN05,Duck Detective: The Ghost of Glamping,negative,内容量与价格感受,中性或不足
+DN06,Duck Detective: The Ghost of Glamping,negative,剧情与角色,抱怨
+DN06,Duck Detective: The Ghost of Glamping,negative,谜题与引导,抱怨
+DN06,Duck Detective: The Ghost of Glamping,negative,美术音乐与配音,赞扬
+DN07,Duck Detective: The Ghost of Glamping,negative,剧情与角色,抱怨
+DN07,Duck Detective: The Ghost of Glamping,negative,美术音乐与配音,赞扬
+DN07,Duck Detective: The Ghost of Glamping,negative,谜题与引导,赞扬
+DN08,Duck Detective: The Ghost of Glamping,negative,谜题与引导,抱怨
+DN08,Duck Detective: The Ghost of Glamping,negative,剧情与角色,抱怨
+DN08,Duck Detective: The Ghost of Glamping,negative,内容量与价格感受,抱怨
+DN09,Duck Detective: The Ghost of Glamping,negative,谜题与引导,赞扬
+DN09,Duck Detective: The Ghost of Glamping,negative,剧情与角色,抱怨
+DN09,Duck Detective: The Ghost of Glamping,negative,内容量与价格感受,抱怨
+DN10,Duck Detective: The Ghost of Glamping,negative,内容量与价格感受,抱怨
+SP01,Sunset Hills,positive,剧情与角色,赞扬
+SP01,Sunset Hills,positive,美术音乐与配音,赞扬
+SP01,Sunset Hills,positive,谜题与引导,赞扬
+SP01,Sunset Hills,positive,谜题与引导,抱怨
+SP01,Sunset Hills,positive,操作与技术,抱怨
+SP01,Sunset Hills,positive,本地化,抱怨
+SP01,Sunset Hills,positive,内容量与价格感受,抱怨
+SP02,Sunset Hills,positive,美术音乐与配音,赞扬
+SP02,Sunset Hills,positive,剧情与角色,赞扬
+SP03,Sunset Hills,positive,内容量与价格感受,抱怨
+SP04,Sunset Hills,positive,谜题与引导,抱怨
+SP04,Sunset Hills,positive,剧情与角色,抱怨
+SP05,Sunset Hills,positive,剧情与角色,赞扬
+SP05,Sunset Hills,positive,美术音乐与配音,赞扬
+SP05,Sunset Hills,positive,谜题与引导,赞扬
+SP05,Sunset Hills,positive,谜题与引导,抱怨
+SP05,Sunset Hills,positive,内容量与价格感受,抱怨
+SP06,Sunset Hills,positive,美术音乐与配音,赞扬
+SP06,Sunset Hills,positive,剧情与角色,赞扬
+SP06,Sunset Hills,positive,谜题与引导,赞扬
+SP06,Sunset Hills,positive,内容量与价格感受,赞扬
+SP06,Sunset Hills,positive,操作与技术,抱怨
+SP06,Sunset Hills,positive,本地化,中性或不足
+SP07,Sunset Hills,positive,美术音乐与配音,赞扬
+SP08,Sunset Hills,positive,美术音乐与配音,赞扬
+SP09,Sunset Hills,positive,美术音乐与配音,赞扬
+SP09,Sunset Hills,positive,剧情与角色,赞扬
+SP09,Sunset Hills,positive,本地化,抱怨
+SP09,Sunset Hills,positive,操作与技术,抱怨
+SP10,Sunset Hills,positive,美术音乐与配音,赞扬
+SP10,Sunset Hills,positive,谜题与引导,抱怨
+SP10,Sunset Hills,positive,剧情与角色,赞扬
+SP10,Sunset Hills,positive,剧情与角色,抱怨
+SN01,Sunset Hills,negative,美术音乐与配音,赞扬
+SN01,Sunset Hills,negative,剧情与角色,赞扬
+SN01,Sunset Hills,negative,谜题与引导,抱怨
+SN02,Sunset Hills,negative,美术音乐与配音,赞扬
+SN02,Sunset Hills,negative,剧情与角色,抱怨
+SN02,Sunset Hills,negative,谜题与引导,抱怨
+SN03,Sunset Hills,negative,美术音乐与配音,赞扬
+SN03,Sunset Hills,negative,笼统评价／信息不足,中性或不足
+SN04,Sunset Hills,negative,本地化,抱怨
+SN05,Sunset Hills,negative,美术音乐与配音,赞扬
+SN05,Sunset Hills,negative,剧情与角色,赞扬
+SN05,Sunset Hills,negative,谜题与引导,抱怨
+SN05,Sunset Hills,negative,内容量与价格感受,抱怨
+SN06,Sunset Hills,negative,谜题与引导,抱怨
+SN06,Sunset Hills,negative,操作与技术,抱怨
+SN06,Sunset Hills,negative,剧情与角色,抱怨
+SN06,Sunset Hills,negative,内容量与价格感受,抱怨
+SN06,Sunset Hills,negative,美术音乐与配音,赞扬
+SN07,Sunset Hills,negative,内容量与价格感受,抱怨
+SN07,Sunset Hills,negative,美术音乐与配音,赞扬
+SN08,Sunset Hills,negative,美术音乐与配音,赞扬
+SN08,Sunset Hills,negative,操作与技术,抱怨
+SN08,Sunset Hills,negative,剧情与角色,抱怨
+SN08,Sunset Hills,negative,内容量与价格感受,抱怨
+SN09,Sunset Hills,negative,美术音乐与配音,赞扬
+SN09,Sunset Hills,negative,谜题与引导,抱怨
+SN09,Sunset Hills,negative,剧情与角色,中性或不足
+SN10,Sunset Hills,negative,美术音乐与配音,赞扬
+SN10,Sunset Hills,negative,操作与技术,抱怨
