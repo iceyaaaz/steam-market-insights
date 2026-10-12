@@ -2,6 +2,14 @@
 
 一个面向数据分析／数据运营岗位的可复现作品：使用 SQL 清洗真实 Steam 数据，Pandas 验证业务假设，Streamlit 展示筛选后的市场结构、口碑和竞品。当前版本不含 AI，也不需要 API 密钥。
 
+## 在线体验
+
+- [在线交互看板](https://iceyaaaz-steam-market.streamlit.app/)
+- [Cozy 游戏竞品分析案例](reports/cozy/final_case.md)
+
+支持按发行年份、价格带、游戏标签和评价数筛选，查看市场结构、
+玩家口碑与竞品排名，并下载筛选结果。
+
 ## 快速运行
 
 需要 Python 3.13（本项目验证版本）。项目已包含处理后的 Parquet 数据，启动看板无需重新下载 318 MB 原始包。
